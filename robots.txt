@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prathamshinde234.github.io/portfolio/sitemap.xml
